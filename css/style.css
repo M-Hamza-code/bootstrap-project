@@ -1,0 +1,72 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+#img1 {
+  width: 152px;
+  height: 55px;
+}
+.whatsappbtn {
+  border: 1px solid rgb(2, 165, 2);
+  padding: 10px 18px;
+  color: rgb(2, 165, 2);
+  font-size: 16px;
+}
+.whatsappbtn:hover {
+  border: 1px solid rgb(2, 165, 2);
+}
+.whatsappbtn i {
+  color: rgb(2, 165, 2);
+}
+.call {
+  background: linear-gradient(to right, #0acefe, #2699fb);
+  color: white;
+  padding: 10px 18px;
+}
+.banner-content h1 {
+  font-size: 52px;
+  font-weight: 700;
+}
+.banner-content p {
+  font-size: 22px;
+}
+.banner-content h1 span {
+  color: #2699fb;
+}
+.banner-content ul {
+  list-style-type: none;
+}
+.banner-content ul li {
+  font-size: 22px;
+}
+.banner-content ul li i {
+  color: #2699fb;
+}
+.banner-button button {
+  width: 50%;
+  padding: 10px 0px;
+  border-radius: 5px;
+}
+.banner-button button:first-child {
+  background: linear-gradient(to right, #0acefe, #2699fb);
+  color: white;
+}
+.banner-form {
+  padding: 40px;
+  border-radius: 10px;
+}
+.banner-form h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.banner-form button {
+  width: 100%;
+  padding: 10px 10px;
+  background: linear-gradient(to right, #0acefe, #2699fb);
+  color: white;
+  border: none;
+}
+.counter-section h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #2699fb;
+}

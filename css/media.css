@@ -1,0 +1,48 @@
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1170px;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+  .btn-outer {
+    position: fixed;
+    background-color: white;
+    padding: 5px 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    justify-content: center !important;
+  }
+  .whatsappbtn,
+  .call {
+    padding: 7px 15px;
+    font-size: 14px;
+  }
+  .banner-content h1 {
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 35px;
+  }
+  .banner-content h1 br {
+    display: none;
+  }
+  .banner-content p,
+  .banner-content ul li {
+    font-size: 16px;
+  }
+  .banner-button {
+    flex-direction: column;
+  }
+  .banner-button button {
+    width: 100%;
+  }
+  .banner-form {
+    padding: 20px;
+  }
+}
