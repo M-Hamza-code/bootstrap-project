@@ -70,3 +70,38 @@
   font-weight: 700;
   color: #2699fb;
 }
+.highlights-section {
+  background-color: #f7faff;
+}
+.highlights-section h2 {
+  color: black;
+  font-size: 36px;
+  font-weight: 700;
+}
+.highlights-section p {
+  font-size: 18px;
+}
+.highlight-items i {
+  font-size: 64px;
+  padding: 19px;
+  background-color: #c7e9f1;
+  color: #2699fb;
+}
+.highlight-items h4 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.highlight-items p {
+  font-size: 15px;
+}
+.nav-item a {
+  font-weight: bold;
+  margin-right: 15px;
+  color: #2699fb;
+}
+.tableItemsContent ul {
+  list-style-type: none;
+}
+.pills-link li i {
+  color: #2699fb;
+}
